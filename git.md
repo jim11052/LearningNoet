@@ -2,29 +2,40 @@
 ```sh
 $ git commit --amend --signoff
 ```
-### Merge request to origin/master
-```sh
-git stash 
-git checkout -b `new-branch-name`
-git stash list 
-git stash pop
-git add .
-git commit ...
-git pull --rebase
-git push origin `new-branch-name`:`new-branch-name`
-
-git checkout master
-git branch -D `new-branch-name`
-```
 
 ### Submodule
 ```sh
-git submodule update --init --recursive
+$ git submodule update --init --recursive
 ```
 
-### Modify commit if alerady pushed 
+### Improve large repo `git clone` speed
 ```sh
-git rebase -i HEAD~5    # then modify pick to edit
-git add . 
-git status              # then follow the instructions 
+$ git clone <url> --depth 1 --single-branch
+$ git clone <url> --depth 1 --no-single-branch
 ```
+### Custom format for `git log` 
+```sh
+$ git log --graph --pretty=format:"%Ced%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset" --abbrev-commit --date=relative
+```
+
+### Git rebase interactive
+```sh
+$ git rebase -i <after-this-commit>
+```
+### Git stash
+```sh
+$ git stash save "comment"
+$ git stash save -u "comment"    # -u | --include-untracked
+$ git stash save -a "comment"
+$ git stash apply
+$ git stash drop
+$ git stash clear
+```
+
+### Useful Git command 
+```sh
+$ git pull --rebase --autostash
+$ git rm --cached <file>
+```
+### Reference
+1. [Git-Tutorials](https://github.com/twtrubiks/Git-Tutorials)
