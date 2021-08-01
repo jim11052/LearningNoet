@@ -12,12 +12,6 @@
     df = diff
     lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative --decorate
     dt = difftool
-[color]
-    ui = auto
-    diff = auto
-    status = auto
-    branch = auto
-    log = auto
 [filter "lfs"]
     clean = git-lfs clean -- %f
     smudge = git-lfs smudge -- %f
