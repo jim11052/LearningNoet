@@ -6,7 +6,7 @@ https://grafana.com/docs/grafana/latest/administration/configuration/
 
 ##### hpc 
 1. https://www.delltechnologies.com/asset/en-us/products/ready-solutions/briefs-summaries/ready-bundles-for-hpc-storage-solution-overview.pdf
-2. 
+2. https://blog.mrzhenggang.com/supercomputer-courses-slurm/#1-%E4%BB%80%E4%B9%88%E6%98%AFslurm
 ##### Restore gitlab 
 https://docs.gitlab.com/ee/raketasks/backup_restore.html#restore-gitlab
 
@@ -25,6 +25,7 @@ https://docs.gitlab.com/ee/raketasks/backup_restore.html#restore-gitlab
 5. `ip ru`
 6. `ip r show table`
 7. http://linux.vbird.org/linux_server/0230router.php
+8. https://docs.fortinet.com/document/fortigate/6.2.3/cookbook/869159/ssl-vpn-best-practices
 
 ##### Fortinet site to site 
 1. https://www.askasu.idv.tw/index.php/2009/05/17/493/
@@ -59,3 +60,13 @@ https://devops.ionos.com/tutorials/increase-the-size-of-a-linux-root-partition-w
 
 ##### Flow chart
 1. https://balsamiq.com
+
+##### Hadoop
+1. https://www.itread01.com/content/1543428188.html
+2. High availability https://ithelp.ithome.com.tw/users/20000065/ironman/279?page=2
+
+##### Gluster
+1. http://www.l-penguin.idv.tw/book/Gluster-Storage_GitBook/gluster_client/using_native-client.html
+
+##### C/C++
+1. https://forgoal.gitbooks.io/-/content/longest_increasing_subsequence.html
