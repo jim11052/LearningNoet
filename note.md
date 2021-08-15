@@ -1,14 +1,25 @@
 ##### LDAP 
-https://blog.xuite.net/towns/hc/81677540-LDAP+%E5%AE%89%E8%A3%9D%E3%80%81%E8%A8%AD%E5%AE%9A%E3%80%81%E7%AE%A1%E7%90%86+
+1. https://blog.xuite.net/towns/hc/81677540-LDAP+%E5%AE%89%E8%A3%9D%E3%80%81%E8%A8%AD%E5%AE%9A%E3%80%81%E7%AE%A1%E7%90%86+
+2. https://www.freeipa.org/page/Main_Page
+3. http://kentyeh.blogspot.com/2016/10/freeipa.html
 
 ##### GRAFANA
-https://grafana.com/docs/grafana/latest/administration/configuration/
+1. https://grafana.com/docs/grafana/latest/administration/configuration/
 
 ##### hpc 
 1. https://www.delltechnologies.com/asset/en-us/products/ready-solutions/briefs-summaries/ready-bundles-for-hpc-storage-solution-overview.pdf
 2. https://blog.mrzhenggang.com/supercomputer-courses-slurm/#1-%E4%BB%80%E4%B9%88%E6%98%AFslurm
+3. https://wiki.lustre.org/images/4/4d/Lustre_hsm_seminar_lug10.pdf
+4. https://www.youtube.com/watch?v=p8ebqQ9CHFU
+5. http://skutnik.iiens.net/cours/2A/SFP/SFP-08-Lustre-HSM-1.2.pdf
+6. https://github.com/aws-samples/amazon-fsx-workshop/tree/master/lustre/03-load-data#lazy-load-data
+
 ##### Restore gitlab 
 https://docs.gitlab.com/ee/raketasks/backup_restore.html#restore-gitlab
+
+##### DevOps
+1. https://ithelp.ithome.com.tw/articles/10201563
+2. https://www.digitalocean.com/community/tutorials/how-to-host-a-website-using-cloudflare-and-nginx-on-ubuntu-20-04
 
 ##### Python
 1. https://blog.chairco.me/posts/2018/06/how-python-coroutines-work.html
@@ -70,3 +81,13 @@ https://devops.ionos.com/tutorials/increase-the-size-of-a-linux-root-partition-w
 
 ##### C/C++
 1. https://forgoal.gitbooks.io/-/content/longest_increasing_subsequence.html
+
+##### Web
+1. https://zh-hant.reactjs.org/docs/getting-started.html
+2. https://developer.mozilla.org/zh-TW/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+3. https://www.w3schools.com/js/js_es6.asp
+4. SSL/TLS https://medium.com/@clu1022/%E9%82%A3%E4%BA%9B%E9%97%9C%E6%96%BCssl-tls%E7%9A%84%E4%BA%8C%E4%B8%89%E4%BA%8B-%E4%B8%83-%E6%86%91%E8%AD%89%E7%9A%84%E7%A8%AE%E9%A1%9E-b8efc742ec9f
+
+##### Linux
+1. http://linux.vbird.org/linux_basic/#part1
+2. https://www.tecmint.com/add-disk-larger-than-2tb-to-an-existing-linux/
